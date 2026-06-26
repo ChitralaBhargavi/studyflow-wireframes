@@ -1,4 +1,4 @@
-Structure
+#Structure
 # User Persona
 
 ## Basic Information
@@ -13,7 +13,7 @@ Occupation:
 ## Technology Usage
 
 ## Quote
-Example
+#Example
 # User Persona
 
 ## Basic Information
